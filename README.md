@@ -11,4 +11,4 @@ patika.dev object orianted programming assignments
 
 *Note: It is not necessary to specify the attributes and behaviors of the classes.*
 
-![uml-diagram](https://github.com/ayyse/University-Management-System/blob/main/diagram.png)
+![uml-diagram](https://github.com/ayyse/Object-Orianted-Programming/blob/main/university-management-system-diagram.png)
