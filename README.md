@@ -13,9 +13,7 @@ patika.dev object orianted programming assignments
 
 ![uml-diagram](https://github.com/ayyse/Object-Orianted-Programming/blob/main/university-management-system-diagram.png)
 
-
-
-
+---
 
 ## Assignment2 Zoo Management UML Diagram
 
@@ -37,8 +35,7 @@ Animals:
 
 ![uml-diagram](https://github.com/ayyse/Object-Orianted-Programming/blob/main/zoo-management-diagram.png)
 
-
-
+---
 
 ## Assignment3 Flight Management System UML Diagram
 
@@ -58,5 +55,26 @@ Design a system for the management of flights and pilots.
 
 
 ![uml-diagram](https://github.com/ayyse/Object-Orianted-Programming/blob/main/flight-management-system-diagram.png)
+
+---
+
+## Assignment4 Online Movie System UML Diagram
+
+Design the system of the application that sells or rents movies online.
+
+- Movies can be listed and sorted in the app and users can subscribe to the app.
+- Users buy credits through the system for subscription. 
+- Only subscribed users can rent movies with their credits and the credit value of the rented movie is deducted from their account.
+- Regular users and subscribers can buy movies.
+- If the film is not available, it can be requested.
+
+
+
+**Draw the Class diagram describing this system.**
+
+![uml-diagram](https://github.com/ayyse/Object-Orianted-Programming/blob/main/online-movie-system-diagram.png)
+
+
+---
 
 
